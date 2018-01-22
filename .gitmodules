@@ -1,0 +1,3 @@
+[submodule "test-repo2"]
+	path = test-repo2
+	url = https://mdrotthoff:Dell_1891@github.com/mdrotthoff/rcs-keywords-test2.git
